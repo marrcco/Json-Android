@@ -1,0 +1,59 @@
+[
+  {
+    "popular" : [
+      {
+        "name" : "Stara Srbija",
+        "imageUrl" : "",
+        "rating" : "4.0",
+        "priceRange" : "3"
+      },
+      {
+        "name" : "Fenix",
+        "imageUrl" : "",
+        "rating" : "3.0",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Cafeteria",
+        "imageUrl" : "",
+        "rating" : "5.0",
+        "priceRange" : "3"
+      },
+      {
+        "name" : "Comuna Gastro Bar",
+        "imageUrl" : "",
+        "rating" : "4.0",
+        "priceRange" : "2"
+      }
+      ],
+    "recommended" : [
+      {
+        "name" : "Square",
+        "imageUrl" : "",
+        "rating" : "3.5",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Biro Kafeterija",
+        "imageUrl" : "",
+        "rating" : "4.0",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Beer Garden",
+        "imageUrl" : "",
+        "rating" : "4.0",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Pleasure",
+        "imageUrl" : "",
+        "rating" : "4.5",
+        "priceRange" : "3"
+      }
+      ]
+  }
+  ]
+      
+      
+      
