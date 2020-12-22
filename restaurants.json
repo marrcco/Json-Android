@@ -1,0 +1,56 @@
+[
+  {
+    "popular" : [
+      {
+        "name" : "Stara Srbija",
+        "imageUrl" : "https://www.restoranibeograd.com/storage/news/interior/772/restoran_despacito_5_(1).JPG",
+        "rating" : "4.0",
+        "priceRange" : "3"
+      },
+      {
+        "name" : "Fenix",
+        "imageUrl" : "https://miro.medium.com/max/11192/0*p_4ntKLnWKu8m4KJ",
+        "rating" : "3.0",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Cafeteria",
+        "imageUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/0e/cc/0a/dc/restaurant-chocolat.jpg",
+        "rating" : "5.0",
+        "priceRange" : "3"
+      },
+      {
+        "name" : "Comuna Gastro Bar",
+        "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxUllqsPbu3QW1Cflh2D7jPu0G-BJ6OJvaEA&usqp=CAU",
+        "rating" : "4.0",
+        "priceRange" : "2"
+      }
+      ],
+    "recommended" : [
+      {
+        "name" : "Square",
+        "imageUrl" : "https://4.imimg.com/data4/XB/JF/MY-11715160/hotel-interior-design-services-500x500.jpg",
+        "rating" : "3.5",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Biro Kafeterija",
+        "imageUrl" : "https://restaurantdupalaisroyal.com/wp-content/uploads/2020/02/Restaurant_du_Palais_Royal_RDC_11_GdeLaubier.jpg",
+        "rating" : "4.0",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Beer Garden",
+        "imageUrl" : "https://www.restoranibeograd.com/storage/restaurant/interior/161/restoran_magellan_novi_beograd_belvil_111_s_600x400.jpg",
+        "rating" : "4.0",
+        "priceRange" : "2"
+      },
+      {
+        "name" : "Pleasure",
+        "imageUrl" : "https://www.nacionalna-klasa.rs/images/restaurant-on-the-river-bank-belgrade.jpg",
+        "rating" : "4.5",
+        "priceRange" : "3"
+      }
+      ]
+  }
+  ]
