@@ -7,7 +7,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 4000 - 8000",
         "waitTime" : "30min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Fenix",
@@ -15,8 +17,9 @@
         "rating" : "3.0",
         "priceRange" : "RSD 2000 - 3000",
         "waitTime" : "25min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Cafeteria",
@@ -24,8 +27,9 @@
         "rating" : "5.0",
         "priceRange" : "RSD 2500 - 5000",
         "waitTime" : "50min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Comuna Gastro",
@@ -33,8 +37,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 1500 - 3500",
         "waitTime" : "40min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       }
       ],
     "recommended" : [
@@ -44,8 +49,9 @@
         "rating" : "3.5",
         "priceRange" : "RSD 1500 - 3500",
         "waitTime" : "15min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Biro Kafeterija",
@@ -53,8 +59,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 1000 - 2500",
         "waitTime" : "20min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Beer Garden",
@@ -62,8 +69,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 2000 - 4000",
         "waitTime" : "30min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Pleasure",
@@ -71,8 +79,9 @@
         "rating" : "4.5",
         "priceRange" : "RSD 1500 - 2500",
         "waitTime" : "45min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       }
       ],
     "all_restaurants" :[
@@ -82,7 +91,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 4000 - 8000",
         "waitTime" : "30min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Fenix",
@@ -90,8 +101,9 @@
         "rating" : "3.0",
         "priceRange" : "RSD 2000 - 3000",
         "waitTime" : "25min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Cafeteria",
@@ -99,8 +111,9 @@
         "rating" : "5.0",
         "priceRange" : "RSD 2500 - 5000",
         "waitTime" : "50min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Comuna Gastro",
@@ -108,7 +121,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 2000 - 5000",
         "waitTime" : "40min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Square",
@@ -116,8 +131,9 @@
         "rating" : "3.5",
         "priceRange" : "RSD 1500 - 3500",
         "waitTime" : "15min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Biro Kafeterija",
@@ -125,8 +141,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 1000 - 2500",
         "waitTime" : "20min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Beer Garden",
@@ -134,8 +151,9 @@
         "rating" : "4.0",
         "priceRange" : "RSD 2000 - 4000",
         "waitTime" : "30min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       },
       {
         "name" : "Pleasure",
@@ -143,8 +161,9 @@
         "rating" : "4.5",
         "priceRange" : "RSD 1500 - 2500",
         "waitTime" : "45min",
-        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima"
-
+        "description" : "Kvalitetan i opuštajući pab u ruralnom stilu, kojim upravljaju nagrađivani vlasnici, nalazi se u prelepom berkširskom selu Pizmor, na samo nekoliko minuta vožnje od puta A34 i raskrsnica 13 i 14 na auto-putu M4. Objekat i dekor su šarmantni i rustični, sa elegantnim modernim detaljima",
+        "lat" : 43.31797901195395, 
+        "lon" : 21.896882802175735
       }
       ]
   }
